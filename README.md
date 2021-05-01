@@ -1,6 +1,6 @@
 # KuCoin Futures PNL Calculator
 
-A simple Profit-and-Loss calculator that uses the exported __PNL History.csv__ files from KuCoin Futures.
+A simple Profit-and-Loss calculator that uses the exported __PNL History.csv__ files from KuCoin Futures written in Windws Forms (.NET Core 5.0).
 
 You can load as many PNL History files as you want, and it will skip duplicates.
 
